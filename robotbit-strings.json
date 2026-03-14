@@ -1,0 +1,30 @@
+{
+    "robotbit.rgb|block": "온보드 RGB",
+    "robotbit.Servo|block": "9g 서보|%index|각도 %degree",
+    "robotbit.GeekServo|block": "Geekservo|9g 서보|%index|각도 %degree",
+    "robotbit.GeekServo2KG|block": "Geekservo|2KG 서보|%index|각도 %degree",
+    "robotbit.GeekServo5KG|block": "Geekservo|5KG 서보|%index|각도 %degree",
+    "robotbit.GeekServo5KG_Motor|block": "Geekservo|5KG 서보_모터|%index|속도 %speed",
+    "robotbit.StepperDegree|block": "스테퍼 28BYJ-48|%index|각도 %degree",
+    "robotbit.StepperTurn|block": "스테퍼 28BYJ-48|%index|회전수 %turn",
+    "robotbit.StepperDual|block": "듀얼 스테퍼(각도) |M1 %degree1| M2 %degree2",
+    "robotbit.StpCarMove|block": "스테퍼 자동차 전진|거리(cm) %distance|바퀴 지름(mm) %diameter",
+    "robotbit.StpCarTurn|block": "스테퍼 자동차 회전|각도 %turn|바퀴 지름(mm) %diameter|바퀴 간격(mm) %track",
+    "robotbit.MotorRun|block": "모터|%index|속도 %speed",
+    "robotbit.MotorRunDual|block": "모터|%motor1|속도 %speed1|%motor2|속도 %speed2",
+    "robotbit.MotorRunDelay|block": "모터|%index|속도 %speed|지연 %delay|초",
+    "robotbit.MotorStop|block": "모터 정지|%index|",
+    "robotbit.MotorStopAll|block": "모든 모터 정지",
+    "robotbit.RgbUltrasonic|block": "RGB 초음파 센서|핀 %pin",
+    "robotbit.HoleUltrasonic|block": "레고홀 초음파 센서|핀 %pin|단위 %unit",
+    "robotbit.MatrixDraw|block": "LED 매트릭스 점 찍기|X %x|Y %y",
+    "robotbit.MatrixClear|block": "LED 매트릭스 지우기",
+    "robotbit.MatrixRefresh|block": "LED 매트릭스 새로고침",
+
+    "robotbit.ValueUnit.Millimeter|block": "밀리미터",
+    "robotbit.ValueUnit.Centimeters|block": "센티미터",
+
+    "{id:group}Servo": "서보",
+    "{id:group}Motor": "모터/스테퍼",
+    "{id:group}Modules": "외부 모듈"
+}
